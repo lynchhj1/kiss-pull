@@ -31,7 +31,7 @@ In order to use this script you need to dowload the python script and install a 
 
 ### Prerequisites
 
-Beautiful soup should be the only module you should need. You can use either of the below commands to install it.
+Beautiful soup should be the only module you need to install. You can use either of the below commands to install it.
 * python modules through apt
   ```sh
   sudo apt install python3-bs4
