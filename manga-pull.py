@@ -20,7 +20,8 @@ def get_issue_name(url,soup):
       (r'<Title>Read ', ''),
       (r' Online Free | Kissmanga</Title>', ''),
       (r'\|',''),
-      (r' ','.')
+      (r' ','.'),
+      (r'\:','')
   ]
   ugly_title = str(soup.title)
   ugly_title = ugly_title.title()
