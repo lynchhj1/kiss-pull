@@ -49,6 +49,12 @@ Download the python script [here](manga-pull.py)
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+The below command will grab all of the issue links in order.
+
+  ```sh
+  python3 grab-issue-list.py https://kissmanga.org/manga/manga-pb992910
+  ```
+
 The below command is an example of how to use the script. This will create a cbz in the path where you run it.
 
   ```sh
